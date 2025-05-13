@@ -2,7 +2,7 @@
 
 Overview
 
-This manual provides a guide for future developers who will take over What  Recommendation System. The purpose of this document is to ensure a smooth transition by outlining the setup process, API usage, testing methods, and a roadmap for further development.
+This manual provides a guide for future developers who will take over What to Wear? System. The purpose of this document is to make sure developers arent confused by providing a outlining of the setup process, API usage, testing methods, and a roadmap for further development.
 
 System Purpose
 
@@ -95,7 +95,7 @@ Help Page
 
 - Insomnia or Postman for API testing
 
-esting Steps
+testing Steps
 
 1. Test Weather.gov API;
 

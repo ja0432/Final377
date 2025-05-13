@@ -67,7 +67,7 @@ json
   "condition": "Partly Cloudy",
   "recommendation": ["T-shirt", "Shorts", "Light Jacket"]
 }
-```
+
 
 Home Page
 

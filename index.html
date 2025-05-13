@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Info App</title>
+    <link rel="stylesheet" href="css/style.css"> <!-- Corrected the link to CSS -->
+</head>
+<body>
+    <header>
+        <h1>Weather Info App</h1>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Get Weather Information and Outfit Suggestions</h2>
+            <input type="text" id="cityInput" placeholder="Enter City Name">
+            <button onclick="getWeather()">Get Weather</button>
+            <div id="weatherDetails">
+                <p id="temperature">Temperature: --</p>
+                <p id="humidity">Humidity: --</p>
+                <p id="windspeed">Wind Speed: --</p>
+                <p id="weather">Weather: --</p>
+                <p id="outfitSuggestions">Suggested Outfit: --</p>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2>About This App</h2>
+            <p>This app provides real-time weather data using Weather.gov API.</p>
+            <p>Enter a city name in the input box, click "Get Weather" and see the weather details.</p>
+        </section>
+
+        <footer>
+            <p>© 2025 Weather Info App</p>
+        </footer>
+    </main>
+
+    <script src="js/app.js"></script> <!-- Link to external JS file -->
+</body>
+</html>

@@ -12,4 +12,4 @@ what the temperature outside is and then give outfit recommendations.
 Description of target browsers (iOS? Android? Which ones?)
 Anyone with web browsing capabilities should be able to access the website. 
 Link to Developer Manual
-
+ [Developer Manual](./developer_manual.md)

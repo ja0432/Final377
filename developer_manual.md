@@ -13,7 +13,9 @@ VS code
  Prerequisites
 
 -Node.js 
-- npm 
+- npm
+- Next.js A
+- API Routes Supabase for database storage
 
 Steps
 
